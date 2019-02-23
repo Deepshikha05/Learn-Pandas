@@ -1,3 +1,1 @@
-# Complete tutorial of Python Frameworks
- - Pandas
- - Numpy
+# Complete tutorial of Python Framework - Pandas
